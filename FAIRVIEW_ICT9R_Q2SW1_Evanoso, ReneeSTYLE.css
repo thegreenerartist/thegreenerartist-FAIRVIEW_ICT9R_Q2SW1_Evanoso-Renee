@@ -1,0 +1,27 @@
+h1 {
+	text-align: center;
+	font-family: Didot, serif;
+	color: #57402f;
+	letter-spacing: 10px;
+	text-transform: uppercase;
+	text-decoration: underline;
+}
+h3 {
+	text-align: center;
+	font-family: Didot, serif;
+	color: #82624a
+}
+h4 {
+	text-align: center;
+	font-family: Didot, serif;
+	color: #82624a
+}
+.title {
+	background-color: #fffbe3;
+}
+.table {
+	background-color: #b0a287;
+	text-align: center;
+	font-family: Didot, serif;
+	color:#fffbe3;
+}
